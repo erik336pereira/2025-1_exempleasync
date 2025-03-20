@@ -5,3 +5,4 @@ services:
     ports:
     - "5672:5672"  #Porta para comunicação AMQP
     - "15672-15672"  #Porta para a interface administrativa
+
